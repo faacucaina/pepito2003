@@ -1,2 +1,2 @@
-# pepito2003
+# Curso de python 
 
